@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 575px;
+    height: 350px;
+    angle: 0 deg;
+    opacity: 1;
+    background-color: #607b7d;
+    margin: 40px 0 0 40px;
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 35.89px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #EEEEEE;
+    margin-bottom: 20px;
+}
+
+.box {
+    background-color: #2b2c28;
+    height: 120px;
+    width: 170px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+p {
+    font-family: "Orbitron", sans-serif;
+    font-size: 90px;
+    line-height: 127px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #F94F6D;
+}
+
+button {
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    border: 2px solid #EEEEEE;
+    color: #EEEEEE;
+    background-color: #4a5759;
+    font-family: Cursed Timer ULiL;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 28px;
+    margin: 20px 2px 0 2px;
+}
+
+.child {
+    text-align: center;
+}
